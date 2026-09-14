@@ -63,3 +63,4 @@ git config --global user.email "crisologo.aguilar.27@unsch.edu.pe"
 ---
 
 ## 🗂️ Estructura del proyecto
+![ESTRUCTURA](tests/estructura.png)
